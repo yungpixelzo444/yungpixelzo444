@@ -1,16 +1,23 @@
-## Hi there 👋
+## I'm yungpixelzo444 👋
 
-<!--
-**yungpixelzo444/yungpixelzo444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on developer ergonomics
+- 👯 Open to collaborating on open-source projects
+- 🤔 Thinking about minimalism
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yungpixelzo444&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=nightowl" alt="yungpixelzo444 GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungpixelzo444&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-fb923c?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Neovim-fb923c?style=for-the-badge&logoColor=white" alt="Neovim" /> <img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" />
+</p>
+
+</details>
+
+<sub>Thanks for stopping by — say hi if something here is useful to you.</sub>
